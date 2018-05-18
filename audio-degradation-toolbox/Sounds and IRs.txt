@@ -1,0 +1,83 @@
+IR_GoogleNexusOneFrontMic.wav
+====================================
+- recorded at studio environment at Queen Mary University of London
+- method: exponential sine sweep
+- Equipment:
+   * Genelec ??? speaker
+   * Google Nexus One phone (front microphone, Android version 2.3.6)
+- Approach:
+   * sine sweep was played on speaker and recorded on the phone at
+     a distance of 1 meter
+   * as the studio environment is not perfectly anechoic, a minor
+     room impulse response is mixed in
+   * impulse response was reconstructed from the recorded audio
+     using inverse filtering
+     
+IR_GoogleNexusOneFrontSpeaker.wav
+====================================
+- recorded at studio environment at Queen Mary University of London
+- method: exponential sine sweep
+- Equipment:
+   * ??? microphone
+   * Google Nexus One phone (front speaker, Android version 2.3.6)
+- Approach:
+   * sine sweep was played on the phone's speaker and recorded on
+     the microphone with a distance of 1 meter
+   * as the studio environment is not perfectly anechoic, a minor
+     room impulse response is mixed in
+   * impulse response was reconstructed from the recorded audio
+     using inverse filtering
+     
+ImpulseReponseVinylPlayer1960.wav    
+ImpulseReponseVinylPlayer1960_smoothed.wav
+===============================================
+- recorded using the free iZotope Vinyl (version 1.73b)
+- settings (only non default):
+   * year: 1960
+   * warp depth, scratch, dust, elec noise, mech noise: 0   
+- method: exponential sine sweep
+- Approach:
+   * sine sweep was sent to the plugin and the output audio was
+     recorded
+   * impulse response was reconstructed from the recorded audio
+     using inverse filtering
+
+old_dusty_vinyl_recording.wav
+===============================================
+- recorded using the free iZotope Vinyl (version 1.73b)
+- settings (only non default):
+   * year: 1960
+   * warp depth: 0
+   * scratch, dust, elec noise, mech noise: 50%  
+- method: recorded silence
+- Approach:
+   * silent signal was sent to the plugin and the output audio was
+     recorded
+   * the output contains sounds resembling dust, scratches, electrical
+     noise and mechanical noise
+     
+     
+====================================
+External sounds and IRs:
+====================================
+
+GreatHall_Omni_x06y06.wav
+Classroom_Omni_30x20y.wav
+Octagon_Omni_x06y06.wav
+====================================
+Room response data is a small excerpt from the 'Room Impulse Response Data Set'
+available here under a creative commons attribution-noncommercial-share-alike
+license with attribution to the Centre for Digital Music, Queen Mary University of London:
+http://www.isophonics.net/content/room-impulse-response-data-set
+
+restaurant08.wav
+====================================
+This file is part of the scene classification dataset described here:
+
+D. Giannoulis, E. Benetos, D. Stowell, and M. D. Plumbley,
+"IEEE AASP Challenge on Detection and Classification of Acoustic Scenes and Events - Public Dataset for Scene Classification Task",
+Queen Mary University of London,
+2012.
+
+License: Creative Commons Attribution 2.0 UK: England & Wales (CC BY 2.0 UK)
+http://creativecommons.org/licenses/by/2.0/uk/

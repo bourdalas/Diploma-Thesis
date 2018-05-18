@@ -1,0 +1,7 @@
+testdata/RWC_G39.wav
+testdata/RWC_G72.wav
+testdata/RWC_G84.wav
+testdata/RWC_P009m_drum.wav
+testdata/RWC-C08.wav
+testdata/session5-faure_elegie2c-001-0.wav
+testdata/175234__kenders2000__nonsense-sentence.wav
