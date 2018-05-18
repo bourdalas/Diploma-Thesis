@@ -17,7 +17,6 @@ https://github.com/kyamagu/matlab-lmdb
 
 In order for the system to work, the user must build the Matlab Wrapper for LMDB database
 Instructions:
-  Specify the MATLABDIR path.
-  make MATLABDIR=/usr/local/MATLAB/MATLAB_VERSION
-  
-  make test
+Specify the MATLABDIR path.
+make MATLABDIR=/usr/local/MATLAB/MATLAB_VERSION
+make test
